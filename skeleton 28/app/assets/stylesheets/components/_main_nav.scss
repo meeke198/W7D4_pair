@@ -2,8 +2,11 @@
   
   display: flex; 
   justify-content: space-between;
-  padding-top: 20px; 
+  padding: 20px 0px 10px 0px; 
   align-items: center; 
+  border-bottom: 1px solid #e2e2e2; 
+  
+  
   
 }
 
@@ -13,11 +16,11 @@
   align-items: center;
   
   
+  
 }
 
 .left-nav {
-
- 
+  
 
   > ul {
     > li {

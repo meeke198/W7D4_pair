@@ -1,0 +1,30 @@
+.titles{
+    border-bottom: solid #e2e2e2 1px; 
+
+}
+
+ul{
+    display: flex; 
+    justify-content: center;
+    align-items: center; 
+   
+}
+
+li{
+    margin: 5px;
+    font-family: sans-serif;  
+}
+
+li:hover {
+    background-color: #e2e2e2; 
+    cursor: pointer; 
+    border-radius: 10%;
+}
+
+.all{
+    text-transform: uppercase;
+    text-decoration: underline;
+    font-size: 10px;
+    
+
+}
